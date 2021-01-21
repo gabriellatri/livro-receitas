@@ -1,6 +1,6 @@
 # Livro de Receitas
 
-##### Receita de Strogonoff de Frango
+### Receita de Strogonoff de Frango
 
 Neste repositório, temos uma receita.
 
